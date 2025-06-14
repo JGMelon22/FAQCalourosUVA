@@ -8,6 +8,3 @@ O seguinte projeto trata-se de uma simples landing page no formato de [FAQ](http
     <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" alt="JavaScript" title="JavaScript" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap" title="Bootstrap" />
 </div>
-
-## 🙏Agradecimentos
-O template Bootstrap base utilizado para esse projeto é o [Clean Blog Jekyll](https://startbootstrap.com/theme/clean-blog-jekyll). Créditos a equipe do [Start Bootstrap](https://github.com/startbootstrap/startbootstrap-clean-blog-jekyll)
